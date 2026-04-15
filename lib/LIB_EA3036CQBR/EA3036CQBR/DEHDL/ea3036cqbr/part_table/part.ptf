@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EA3036CQBR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Ever Analog", "EA3036CQBR" (!) = "", "QFN40P300X300X80-21N", "Quad Flat No-Lead", "", "", "", "", "3CH Power Management IC", "http://club.szlcsc.com/article/downFile_D72C44885C60F9F1.html", "0.8 mm"
+END_PART
+
+END.

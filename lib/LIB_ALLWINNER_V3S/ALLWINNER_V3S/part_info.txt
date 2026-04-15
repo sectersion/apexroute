@@ -1,0 +1,9 @@
+Manufacturer=Allwinner Technology
+PartNumber=ALLWINNER V3S
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=129
+Version=1.1
+Released=2024-01-22 17:47:07
+Downloaded=2026-04-15 03:46:35
+3D=Y

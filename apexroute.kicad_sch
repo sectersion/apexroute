@@ -1,0 +1,118 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "61bd7929-418a-439b-a622-42f1c01f41af")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 15.24 16.51)
+		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6f76b46e-fd8e-4934-9b00-aa371e3d1f2f")
+		(property "Sheetname" "PSU"
+			(at 15.24 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "psu.kicad_sch"
+			(at 15.24 34.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_DM" bidirectional
+			(at 41.91 17.78 0)
+			(uuid "7c528500-d221-4222-89a8-c253830cc637")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_DP" bidirectional
+			(at 41.91 20.32 0)
+			(uuid "d33a2c44-52f6-45ba-8eaf-fbb511211596")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "apexroute"
+				(path "/61bd7929-418a-439b-a622-42f1c01f41af"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 59.69)
+		(size 69.85 71.12)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c09554f3-6b9b-4110-8402-d712ad9d2157")
+		(property "Sheetname" "v3s"
+			(at 113.03 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cpu.kicad_sch"
+			(at 113.03 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "apexroute"
+				(path "/61bd7929-418a-439b-a622-42f1c01f41af"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

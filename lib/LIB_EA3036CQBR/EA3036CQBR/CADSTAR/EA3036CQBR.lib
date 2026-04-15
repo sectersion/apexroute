@@ -1,0 +1,18 @@
+.EA3036CQBR :1 ;3CH Power Management IC
+QFN40P300X300X80-21N
+*STM IC
+*NGS
+*PLB 1="GND3" 2="FB3" 3="FB2" 4="GND2_1" 5="GND2_2" 6="LX2" 7="VIN2" 8="EN2" 9="EN1" 10="VIN1" 11="LX1" 12="GND1_1" 13="GND1_2" 14="FB1" 15="AGND_1" 16="VCC" 17="AGND_2" 18="EN3" 19="VIN3" 20="LX3" 21="EP"
+*MXP 21
+*DFN EA3036CQBR
+~!Manufacturer_Name (Ever Analog)
+~!Manufacturer_Part_Number (EA3036CQBR)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://club.szlcsc.com/article/downFile_D72C44885C60F9F1.html)
+~!Height (0.8mm)
+~!3D_Model (EA3036CQBR)
+EA3036CQBR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 

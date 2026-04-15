@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ALLWINNER_V3S
+D Cost-efficient Video Encoding Processor
+K
+F https://linux-sunxi.org/images/2/23/Allwinner_V3s_Datasheet_V1.0.pdf
+$ENDCMP
+#
+#End Doc Library
